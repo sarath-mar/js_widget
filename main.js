@@ -85,7 +85,7 @@ class MessageWidget {
     this.widgetContainer.innerHTML = `
         <header class="widget__header">
             <h3>Sarath Test</h3>
-            <p>We usually respond within a few hours</p>
+            <p>Rybbon</p>
         </header>
         <form>
             <div class="form__field">
