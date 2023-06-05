@@ -89,7 +89,7 @@ class MessageWidget {
         </header>
         <form>
             <div class="form__field">
-                <label for="name">Name</label>
+                <label for="name">Enter your Name</label>
                 <input
                   type="text"
                   id="name"
